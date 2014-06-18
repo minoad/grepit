@@ -1,0 +1,1 @@
+UIImage* image = [UIImage initWithCGImage: [[UIImage imageWithContentsOfFile:@&quot;myFile.jpg&quot;] CGImage] scale:2 orientation:UIImageOrientationUp];

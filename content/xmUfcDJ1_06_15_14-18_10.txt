@@ -1,0 +1,1 @@
+&lt;style&gt; body, a, a:hover { cursor:url(http://i60.tinypic.com/29ql7yo.png), auto }&lt;/style&gt;

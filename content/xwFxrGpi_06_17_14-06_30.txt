@@ -1,0 +1,1 @@
+NSLog(@&quot;Conte&uacute;dos no array:  %@&quot;, [processosArray objectAtIndex:i]);

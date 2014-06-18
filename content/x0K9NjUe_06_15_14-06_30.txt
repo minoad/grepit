@@ -1,0 +1,1 @@
+$info = $dbh-&gt;query('SELECT username, firstname, lastname, country, lastname, step, country, address, phonenr, gender, created FROM member WHERE id='.(int)$_GET['id'].' AND password='.$dbh-&gt;quote($pwd).' LIMIT 1')-&gt;fetch();

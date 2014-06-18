@@ -1,0 +1,1 @@
+return (Skills) Enum.Parse(typeof(Skills),  CSData[(int)cs].Requirement);

@@ -1,0 +1,1 @@
+cat myfile.txt | sort -k1nr | head -3 &gt; my_output.txt
